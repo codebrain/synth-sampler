@@ -1,0 +1,12 @@
+{
+  "id": "oberheim-obx8",
+  "displayName": "Oberheim OB-X8",
+  "manufacturer": "Oberheim",
+  "model": "OB-X8",
+  "parameters": [
+    { "name": "Filter Cutoff", "type": "cc", "number": 74, "min": 0, "max": 127 },
+    { "name": "Resonance", "type": "cc", "number": 71, "min": 0, "max": 127 },
+    { "name": "Amp Env Attack", "type": "cc", "number": 73, "min": 0, "max": 127 },
+    { "name": "Amp Env Release", "type": "cc", "number": 72, "min": 0, "max": 127 }
+  ]
+}
